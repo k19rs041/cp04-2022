@@ -66,4 +66,12 @@
     
     input[type=number] {text-align: right;}
 
-    body {background-color: chocolate;}
+    body {
+        background-color: chocolate;
+        }
+
+    button{
+        color: blue;
+        font-family: Times;
+        border-radius: 20px;
+        }
