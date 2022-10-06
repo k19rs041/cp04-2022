@@ -16,7 +16,7 @@
     }
 
     #remain {
-        color: #ff0000;
+        color: #f3efef;
         font-size: 20px;
         text-align: center;
         position:absolute; top:310px; 
@@ -24,7 +24,7 @@
     }
     
     #time {
-        color: #ff0000;
+        color: #f5eeee;
         font-size: 20px;
         text-align: center;
         position:absolute; top:340px; 
@@ -50,7 +50,7 @@
     }
 
     #btnC {
-        font-size: 10px;
+        font-size: 25px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
     
@@ -65,3 +65,5 @@
     }
     
     input[type=number] {text-align: right;}
+
+    body {background-color: chocolate;}
